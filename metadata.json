@@ -1,0 +1,7 @@
+{
+  "name": "Sparky Learn: Kids Adventure",
+  "description": "A vibrant, AI-powered educational game for kids to learn English, numbers, and colors through interactive mini-games and smart storytelling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
